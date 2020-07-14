@@ -46,12 +46,23 @@ button:hover{
 .btn-grey{
  background: rgb(224,224,224);
 }
-.btn,.btn-equal,.btn-clear{
+.btn, .btn-equal, .btn-clear, .btn-ans{
  font-size: 4rem;
 }
 .btn-equal{
  background: green;
 }
+
+.btn-ans{
+ background: blue;
+ color: white;
+}
+
+.btn-ans:hover{
+ background: black;
+ color: white;
+}
+
 .btn-clear{
  background: red;
 }
