@@ -1,4 +1,6 @@
-// TEST COMMIT
+// Now I I WILL COMMIT
+// AND PUSH
+// WHO KNOWS
 
 (function() {
     const displayScreen = document.querySelector(".screen");
