@@ -1,6 +1,4 @@
-// Now I I WILL COMMIT
-// AND PUSH
-// WHO KNOWS
+// testing commit, verification and push
 
 (function() {
     const displayScreen = document.querySelector(".screen");
