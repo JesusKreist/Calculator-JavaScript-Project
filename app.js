@@ -26,7 +26,7 @@
 
     const calculate = () => {
         try {
-            let result = math.evaluate(computeValues);
+            let result = math.evaluate(displayScreen.value);
             computeValues = "";
             displayScreen.value = result;
             lastAnswer = result;
