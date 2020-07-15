@@ -1,3 +1,5 @@
+// IIFE
+
 (function() {
     const displayScreen = document.querySelector(".screen");
     const btns = document.getElementsByClassName("btn btn-grey");
